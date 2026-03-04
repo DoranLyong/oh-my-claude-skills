@@ -1,4 +1,4 @@
-# oh-my-claude-skill
+# oh-my-claude-skills
 Customized Claude Code Skill
 
 
