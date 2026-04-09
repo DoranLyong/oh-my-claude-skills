@@ -19,11 +19,7 @@ Extracting the chapter contents that you want to organize from your book:
 Generating lecture notes from a video file with frame extraction and speech transcription:
 
 ```bash
-/video-to-note <video-file-path> [output-filename.md]
-
-#-- Example
-/video-to-note ./lecture_07.mp4
-/video-to-note ./lecture_07.mp4 LinearAlgebra_07.md
+Generate a study note using /video-to-note. Whisper transcription may take 30+ minutes — wait for it to finish completely. Do not abort or retry.
 ```
 
 ---
